@@ -85,7 +85,7 @@ images/           → Screenshots and diagrams
 2. Open:
 
 ```
-dashboard/index.html
+index.html
 ```
 
 in any modern browser.
